@@ -1,0 +1,20 @@
+DISP_ORDER	street	StType	col2003	col2004	col2005	col2006	col2007	col2008_adjusted	colTotal	numSevere
+1	Hillegass-Bowditch	B	2	1	1	0	1	0	5	0
+2	Telegraph	A	3	3	5	2	5	3.6	21	3
+3	College	A	4	5	2	8	5	7.2	30	2
+4	Milvia	B	4	3	4	8	4	3.6	26	3
+5	Shattuck	A	8	8	7	7	5	14.4	47	2
+6	MLK	A	6	2	3	4	2	1.2	18	1
+7	King	B	0	1	0	0	0	0	1	1
+8	MLK/Adeline (South)	A	2	2	3	1	0	3.6	11	1
+9	Sacramento (South)	A	0	2	1	2	2	1.2	8	0
+10	California	B	1	1	0	2	3	2.4	9	0
+11	Sacramento	A	2	3	1	4	3	2.4	15	0
+12	9th	B	1	0	1	0	1	0	3	0
+13	San Pablo	A	2	1	4	5	10	4.8	26	0
+14	Virginia	B	0	1	2	1	1	1.2	6	0
+15	University	A	1	2	2	6	2	4.8	17	0
+16	Channing	B	2	2	1	3	4	8.4	19	1
+17	Dwight	A	3	1	3	2	0	2.4	11	0
+18	Russell	B	1	0	1	3	0	2.4	7	0
+19	Ashby	A	6	3	6	2	7	2.4	26	3

@@ -1,0 +1,15 @@
+disporder	street	StType	AVVOL	RELRATE_C	segment length (mi)	adjusted relrate
+1	Hillegass-Bowditch	B	107.6	0.05	1.1	0.042250546
+4	Milvia	B	188.1	0.14	2.1	0.065838619
+10	California	B	39.8	0.23	1.9	0.118916538
+12	9th	B	36.4	0.08	2	0.041171089
+14	Virginia	B	61.3	0.10	1.7	0.057623049
+16	Channing	B	87.2	0.22	2	0.108944954
+18	Russell	B	63.6	0.11	2.5	0.043993453
+						
+2	Telegraph	A	114.5	0.18	1.1	0.16673283
+5	Shattuck	A	185.0	0.25	2.1	0.120978121
+6	MLK	A	44.8	0.40	2.1	0.19118428
+13	San Pablo	A	43.2	0.60	2	0.301158301
+15	University	A	28.9	0.59	1.7	0.346620451
+19	Ashby	A	29.6	0.88	2.5	0.351054852
